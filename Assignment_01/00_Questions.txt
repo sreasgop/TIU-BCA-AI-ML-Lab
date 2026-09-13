@@ -1,0 +1,7 @@
+Assignment: 01
+
+1. The Problem: E-Commerce Order Processing SystemYou are building a backend module for an e-commerce platform. You are given a list of raw transaction logs. Each transaction is represented as a Tuple containing (customer_id, product_name, order_amount).  Filter with Lists: Extract all orders where the order_amount is greater than $50 into a new List.Track Unique Products with Sets: Create a Set of all unique product names purchased across all transactions to see what inventory is in demand.Aggregate with Dictionaries: Create a Dictionary where the key is the customer_id and the value is their total spending amount. 
+
+2. Write a program to implement Breadth First search using python.
+
+3. Write a program to implement Depth First search using python.

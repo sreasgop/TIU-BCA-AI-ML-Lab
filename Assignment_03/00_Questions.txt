@@ -1,0 +1,3 @@
+Assignment: 03
+
+1. Minimax algo for 3 level game tree, 2 players.
