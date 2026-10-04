@@ -1,0 +1,5 @@
+Assignment: 04
+
+1. Implement Linear Regression on a dataset and visualize the regression line.
+
+2. Implement Logistic Regression for binary classification and evaluate the model using Accuracy and Confusion Matrix.
